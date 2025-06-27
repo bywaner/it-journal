@@ -13,9 +13,9 @@ A blend of technical projects, program development, and real-world leadership.
 
 | Project / Experience | Description | Tech / Skills |
 |----------------------|-------------|----------------|
-| Mac Mates Support Network | Designed and managed a national volunteer program for Australians living with macular disease | Program design, systems thinking, stakeholder coordination |
-| Portfolio Website | Personal website built from scratch | HTML, CSS |
-| [Resume Builder (WIP)](#) | A resume component generator with save/export features | JavaScript, React, Forms |
+| project 1 | description 1 | skills |
+| project 2 | descriptoin 2 | skills |
+| project 3 | description 3 | skills |
 
 ---
 
