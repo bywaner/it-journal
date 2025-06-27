@@ -21,12 +21,12 @@ A blend of technical projects, program development, and real-world leadership.
 
 ## 📚 Courses & Certificates
 
-| Course | Platform | Status | Skills Gained |
-|--------|----------|--------|----------------|
-| Meta Front-End Developer | Coursera | ✅ In Progress | HTML, CSS, JavaScript, React |
-| Meta Back-End Developer | Coursera | ⏳ Queued | APIs, Databases, Node.js |
-| Google IT Support | Coursera | ⏳ Queued | Systems, Networking, Troubleshooting |
-| Python for Everybody | Coursera | ✅ Completed | Python, Programming Basics |
+| Education | Status | Skills Gained |
+|--------|--------|----------------|
+| course 1 | ✅ In Progress | HTML, CSS, JavaScript, React |
+| course 2 | ⏳ Queued | APIs, Databases, Node.js |
+| course 3 |⏳ Queued | Systems, Networking, Troubleshooting |
+| course 4 |  ✅ Completed | Python, Programming Basics |
 
 ---
 
